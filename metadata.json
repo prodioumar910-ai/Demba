@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Luxe Time \u0026 Vision",
+  "description": "Boutique de luxe spécialisée dans les montres de haute classe, les lunettes optiques et les parfums d\u0027exception.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
